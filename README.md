@@ -1,4 +1,3 @@
-```
 # Today I Learned
 - 시작일 : 2018년 7월 30일
 - just do it
@@ -32,4 +31,3 @@
 
 # Reference
 [성윤님 TIL](https://github.com/zzsza/TIL)
-```
